@@ -10,13 +10,13 @@ $password = '!!IamRoot!!';   // ...to your installation
 
 $appname = "Demo application"; // ...and preference
 
-$host="ip-172-31-36-143"; // Host name  ec2-18-217-132-18.us-east-2.compute.amazonaws.com
+$host="ec2-18-219-180-66.us-east-2.compute.amazonaws.com"; // Host name  ec2-18-217-132-18.us-east-2.compute.amazonaws.com
 
 
 
 
 
-$tbl_name="users"; // ****** Change this to your Table name
+$tbl_name="members"; // ****** Change this to your Table name
 
 // Connect to server and select databse.
 
